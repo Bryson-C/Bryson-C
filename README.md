@@ -1,7 +1,7 @@
 Hello Im Bryson, Im Into Game Engine Development/Graphics.
 Im Working On A Few Projects
- - Whitespace For Graphics And Rendering
- - A-mu For Funny Unit Conversions
+ - Whitespace: Graphics And Rendering
+ - LongBow: Language/Compilation
 
 <!---
 - 👋 Hi, I’m @Bryson-C
