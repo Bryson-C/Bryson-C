@@ -4,7 +4,7 @@ Im Working On A Few Projects
  - LongBow: Language/Compilation
 
 Learning:
- - Scala ![Scala Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png)
+ - Scala <img src="[drawing.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png)" alt="drawing" width="800"/>
 
 <!---
 - 👋 Hi, I’m @Bryson-C
