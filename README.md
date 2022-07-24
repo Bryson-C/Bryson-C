@@ -4,7 +4,7 @@ Im Working On A Few Projects
  - LongBow: Language/Compilation
 
 Learning:
- - Scala
+ - Scala [](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png)
 
 <!---
 - 👋 Hi, I’m @Bryson-C
