@@ -4,7 +4,11 @@ Im Working On A Few Projects
  - LongBow: Language/Compilation
 
 Learning:
- - Scala <img src="https://user-images.githubusercontent.com/61612853/180633362-a4c99bb8-a797-4479-8e53-d9c4312e8887.png" alt="drawing" width="800"/>
+ - Scala
+
+<!--
+   TODO: Add Images To Profile
+-->
 
 <!---
 - 👋 Hi, I’m @Bryson-C
