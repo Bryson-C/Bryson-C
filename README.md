@@ -3,6 +3,9 @@ Im Working On A Few Projects
  - Whitespace: Graphics And Rendering
  - LongBow: Language/Compilation
 
+Learning:
+ - Scala
+
 <!---
 - 👋 Hi, I’m @Bryson-C
 - 👀 I’m interested in ...
