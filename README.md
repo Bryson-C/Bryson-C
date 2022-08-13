@@ -3,9 +3,6 @@ Im Working On A Few Projects
  - Whitespace: Graphics And Rendering
  - LongBow: Language/Compilation
 
-Learning:
- - Scala
-
 <!--
    TODO: Add Images To Profile
 -->
