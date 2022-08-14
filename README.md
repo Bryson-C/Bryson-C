@@ -4,7 +4,7 @@ Im Working On A Few Projects
  - LongBow: Language/Compilation
 
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=WhisperKnight &show_icons=true&theme=radical)
+![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical)
 
 <!---
 - 👋 Hi, I’m @Bryson-C
