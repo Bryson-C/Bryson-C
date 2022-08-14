@@ -1,4 +1,4 @@
-![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical&color=black)
+![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical)
 
 
 Hello Im Bryson, Im Into Game Engine Development/Graphics.
