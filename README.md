@@ -1,5 +1,5 @@
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical)
-
+[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson-C)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello Im Bryson, Im Into Game Engine Development/Graphics.
 Im Working On A Few Projects
