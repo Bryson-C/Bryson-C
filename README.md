@@ -18,17 +18,29 @@ Im Working On A Few Projects
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson-C&show_icons=true&theme=radical)
 
  </div>
+---
+output: html_document
+---
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  <img height="600px" class="center-block" src="https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bananas-218094b-scaled.jpg">
-  </div>
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bananas-218094b-scaled.jpg">
-  </div>
-</div>
+:::: {style="display: flex;"}
 
+::: {}
+Here is the **first** Div.
+
+```{r}
+str(iris)
+```
+:::
+
+::: {}
+And this block will be put on the right:
+
+```{r}
+plot(iris[, -5])
+```
+:::
+
+::::
 
 
 <!---
