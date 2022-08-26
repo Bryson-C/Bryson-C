@@ -6,11 +6,14 @@ Im Working On A Few Projects
 
 
 
-<div align="center">
+<div align="left">
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical)
 
-<br>
+</div>
+ 
+ 
+ <div align="right">
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson-C&show_icons=true&theme=radical)
 
