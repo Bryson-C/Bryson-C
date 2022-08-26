@@ -7,23 +7,14 @@ Im Working On A Few Projects
 
 
 
-<div style="flex: 50%;">
 
-  <div style="flex: 50%;">
+![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical)
 
-  ![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson-C&show_icons=true&theme=radical)
 
-  </div>
- 
- 
-  <div style="flex: 50%;">
 
-  ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson-C&show_icons=true&theme=radical)
 
-   </div>
- 
- 
-</div>
+
 <!---
 - 👋 Hi, I’m @Bryson-C
 - 👀 I’m interested in ...
