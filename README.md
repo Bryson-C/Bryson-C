@@ -18,30 +18,39 @@ Im Working On A Few Projects
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson-C&show_icons=true&theme=radical)
 
  </div>
----
-output: html_document
----
+ 
+# Two columns
 
-:::: {style="display: flex;"}
+Below is a Div containing three child Divs side by side. The Div
+in the middle is empty, just to add more space between the left
+and right Divs.
 
-::: {}
-Here is the **first** Div.
+:::::: {.cols data-latex=""}
 
-```{r}
-str(iris)
+::: {.col data-latex="{0.55\textwidth}"}
+```{r, echo=FALSE, fig.width=5, fig.height=4}
+par(mar = c(4, 4, .2, .1))
+plot(cars, pch = 19)
 ```
 :::
 
-::: {}
-And this block will be put on the right:
-
-```{r}
-plot(iris[, -5])
-```
+::: {.col data-latex="{0.05\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
 :::
 
-::::
+::: {.col data-latex="{0.4\textwidth}"}
+The figure on the left-hand side shows the `cars` data.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+enim ad minim veniam, quis nostrud exercitation ullamco laboris
+nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+nulla pariatur.
+:::
+::::::
 
 <!---
 - 👋 Hi, I’m @Bryson-C
