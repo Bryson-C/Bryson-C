@@ -1,5 +1,5 @@
  
-Hello Im Bryson, Im Into Game Engine Development/Graphics.
+Into Game Engine Development/Graphics.
 Im Working On A Few Projects
  - Whitespace: Graphics And Rendering
  - LongBow: Language/Compilation
