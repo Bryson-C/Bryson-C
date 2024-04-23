@@ -1,9 +1,6 @@
  
 Into Game Engine Development/Graphics.
-Im Working On A Few Projects
- - Whitespace: Graphics And Rendering
- - LongBow: Language/Compilation
- - Tycoon: Typescript "Game" Engine
+Im Working On A Few Projects, Projects I No Longer Upload Here, I Just Store Them In A External Harddrive
 
 
 
