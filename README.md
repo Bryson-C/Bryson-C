@@ -1,7 +1,5 @@
  
-Into Programming Languages.
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=Bryson-C&show_icons=true&theme=radical)
+Long-time Computer Science Enthusiast. I'm interested in programming languages and software development, focused on both user and developer experience.
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson-C&show_icons=true&theme=radical)
 
